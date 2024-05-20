@@ -1,4 +1,4 @@
-James Holt and Shawn Tran
+James Holt
 
 to output to txt without changing cout's or opening the output file in every cpp file: https://www.quora.com/How-do-I-output-all-my-cout-s-to-a-text-file-in-C
 
